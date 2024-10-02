@@ -29,9 +29,8 @@ Key backend files:
 - `face_train.py`: Implements model training
 - `app.py`: Flask application with API endpoints
 
-Example of face recognition process:
 
-```
+
 ### Frontend (Next.js)
 
 The frontend is built using Next.js, providing a responsive and intuitive user interface. Features include:
@@ -41,14 +40,12 @@ The frontend is built using Next.js, providing a responsive and intuitive user i
 - Model training interface
 - Face recognition results display
 
-Main page layout structure:
 
-```
 ### Integration
 
 The frontend and backend are integrated using RESTful API calls. 
 
-```
+
 ## Performance and Accuracy
 
 - Achieves 98.8% accuracy in face recognition tasks
